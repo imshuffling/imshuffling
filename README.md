@@ -1,4 +1,12 @@
-### Hi there 👋
+
+
+### Hello I'm David 👋 A Front End Developer from London.
+#### I work at Access as a Snr Front End Developer. For more information about me, check out davidrich.es
+
+
+I enjoy working closely with creative teams, brainstorming ideas, finding simple solutions to design challenges and bringing them to life. I'm easy to get on with, social and a team player.
+
+Outside of work, I love sport and can regularly be found playing hockey & cricket as well as occasionally attempting to swing a golf club.
 
 <!--
 **imshuffling/imshuffling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
