@@ -2,5 +2,3 @@
 
 ### Hello I'm David 👋 A Front End Developer from London, UK.
 I work at [Access](https://www.weareaccess.co.uk/) as a Senior Front End Developer. For more information about me, check out [davidrich.es](https://davidrich.es)
-
-Outside of work, I love sport and can regularly be found playing hockey & cricket as well as occasionally attempting to swing a golf club.
