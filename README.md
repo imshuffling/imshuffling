@@ -2,3 +2,9 @@
 
 ### Hello I'm David 👋 A Front End Developer from London, UK.
 I work at [Access](https://www.weareaccess.co.uk/) as a Senior Front End Developer. For more information about me, check out [davidrich.es](https://davidrich.es)
+
+**Now Playing** on Spotify
+
+<a href="https://now-playing-ochre.vercel.app/now-playing?open">
+    <img src="https://now-playing-ochre.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
+</a>
