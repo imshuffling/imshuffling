@@ -3,5 +3,5 @@ I work at [Access](https://www.weareaccess.co.uk/) as a Senior Front End Develop
 
 <p><strong>Now Playing</strong> on Spotify</p>
 <a href="https://now-playing-ochre.vercel.app/now-playing?open">
-    <img src="https://now-playing-ochre.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
+    <img src="https://now-playing-ochre.vercel.app/now-playing" width="500" height="64" alt="Now Playing">
 </a>
